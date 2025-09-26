@@ -6,7 +6,7 @@ It’s designed as a learning project for mastering functions (declarations, exp
 
 Features:
 
-Functions only — no classes, no frameworks.
+Functions only - no classes, no frameworks.
 
 Covers math, arrays, strings, objects, async, and functional programming.
 
@@ -14,4 +14,4 @@ Shows practical patterns: closures, currying, memoization, debounce, throttle, p
 
 Pure and reusable helpers (no mutation by default).
 
-Small and easy to extend — add your own tools to the bag!
+Small and easy to extend - add your own tools to the bag.
